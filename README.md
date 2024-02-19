@@ -1,5 +1,4 @@
 # Risk-Assessment-Botium-Toys
-The controls assessment checklist
 This document outlines the control and compliance checklist for Botium Toys, based on the IT manager's report, goals, scope, and identified control categories.
 
 Goals:
